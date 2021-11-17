@@ -74,22 +74,6 @@ public class MainActivity extends Activity {
         TextoCarro5.setText(Texto5);
         
 
-        /*    System.out.printf("e o valor é: "); // Dom jul 14 28:58:11 BRT 2021 
-
-         String string = new String("abcdefgh");
-         System.out.printf("e o valor é: " +  string.charAt(5)); // Dom jul 14 28:58:11 BRT 2021 
-
-         String string2 = String.valueOf(string.charAt(5));
-
-         if (string2 .equals("f")) {
-         System.out.printf("é o f"); // Dom jul 14 28:58:11 BRT 2021       
-         Toast.makeText(getApplication(), "É F", Toast.LENGTH_SHORT).show();
-         } else {
-         Toast.makeText(getApplication(), "Nao é F", Toast.LENGTH_SHORT).show();
-
-         System.out.printf("nao é f alerta!!"); // Dom jul 14 28:58:11 BRT 2021 
-
-         }*/
     }
 
 } 
